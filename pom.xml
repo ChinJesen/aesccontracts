@@ -106,7 +106,7 @@
 		<dependency>
 		    <groupId>mysql</groupId>
 		    <artifactId>mysql-connector-java</artifactId>
-		    <version>8.0.13</version>
+		    <version>8.0.16</version>
 		</dependency>
 		<!-- 阿里的数据库连接池，目前优秀的pool -->
 		<dependency>
